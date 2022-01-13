@@ -1,0 +1,6 @@
+dist: bionic
+language: go
+go:
+  - "1.12.x"
+script:
+- sudo apt-get install vlc
